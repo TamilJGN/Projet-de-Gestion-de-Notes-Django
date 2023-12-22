@@ -1,6 +1,6 @@
 Membres du groupe :
 
-JEGATHASAN Tamilselbvan, DUCLAUD Jordan, LONGOBARDI Lucas
+JEGATHASAN Tamilselvan, DUCLAUD Jordan, LONGOBARDI Lucas
 
 ## I. Création du projet :
 Avant de commencer, nous avons lancé une application qui nous permettait d'insérer du code. Pour notre part, nous avons utilisé Visual Studio Code.
