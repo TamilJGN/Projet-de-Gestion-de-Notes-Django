@@ -63,10 +63,5 @@ Après cela, nous avons ajouté des fichiers .html que nous avons alimentés. Ap
 ## VI. Ajout des URL :
 Nous avons ajouté les liens dans le dossier templates via les différents fichiers nécessaires. Voici le chemin : Projet_Scripting_MASTER2_CLOUD2_Gb2\Projet_Scripting_TJE_JDU_LLO\notes_app\templates
 
-
-## VII. Ajout des URLs dans les fichiers concernés :
-Pour finir, nous avons dû mettre en place les URLs afin qu'ils soient importés sur le site.
-
-
 ## VIII. Tester l'application :
 Avec la commande python manage.py runserver, l'application était censée démarrer. Mais nous n'avons pas pu la faire fonctonner, nous n'avons pu régler le souci.
