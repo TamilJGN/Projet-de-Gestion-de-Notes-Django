@@ -25,7 +25,8 @@ Ensuite, nous avons lancé la commande "python manage.py startapp notes_app" qui
 Pour terminer ce deuxième chapitre, nous avons effectué l'application des migrations avec les commandes suivantes :
 
 ```
-python manage.py makemigrations python manage.py migrate
+python manage.py makemigrations
+python manage.py migrate
 ```
 
 ## III. Création des formulaires :
@@ -40,7 +41,8 @@ C'est à cet endroit que nous avons défini les fonctions de vue qui étaient re
 Nous avons créé des templates HTML dans un dossier que nous avons nommé "Templates", avec les commandes suivantes : Nous avons créé un dossier templates dans le répertoire de notre application notes_app :
 
 ```
-cd notes_app mkdir templates
+cd notes_app
+mkdir templates
 ```
 
 Cela a créé un dossier templates à l'intérieur de notre application Django.
@@ -62,7 +64,7 @@ mkdir includes
 Après cela, nous avons ajouté des fichiers .html que nous avons alimentés. Après cela, nous avons dû configurer le fichier views.py afin de pouvoir utiliser ces templates.
 
 ## VI. Ajout des URL :
-Nous avons ajouté les liens dans le dossier template via les différents fichiers nécessaires.
+Nous avons ajouté les liens dans le dossier template via les différents fichiers nécessaires. Voici le chemin : Projet_Scripting_MASTER2_CLOUD2_Gb2\Projet_Scripting_TJE_JDU_LLO\notes_app\templates
 
 
 ## VII. Ajout des URLs dans les fichiers concernés :
