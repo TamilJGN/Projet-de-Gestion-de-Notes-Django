@@ -1,6 +1,5 @@
 from django.db import models
 
-# Creation class
 
 from django.db import models
 
