@@ -1,6 +1,4 @@
-Membres du groupe :
-
-JEGATHASAN Tamilselvan, DUCLAUD Jordan, LONGOBARDI Lucas
+Voici les membres du groupe : JEGATHASAN Tamilselvan, DUCLAUD Jordan, LONGOBARDI Lucas
 
 ## I. Création du projet :
 
