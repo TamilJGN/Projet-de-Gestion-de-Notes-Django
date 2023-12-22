@@ -26,7 +26,7 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 
-## III. Création des formulaires :
+## III. Mise en place des formulaires :
 Nous avons créé un formulaire que nous avons nommé forms.py dans notes_app, ce qui a permis d'importer les variables Matières, Étudiant et la notation. Par la suite, dans notes_app > Views.py, nous avons alimenté ce fichier afin de traiter les requêtes des trois classes définies avant.
 
 
