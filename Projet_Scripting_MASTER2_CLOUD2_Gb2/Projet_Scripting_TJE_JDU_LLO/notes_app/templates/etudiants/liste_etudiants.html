@@ -1,0 +1,10 @@
+{% extends 'includes/base.html' %}
+
+{% block content %}
+  <h2>Liste des Étudiants</h2>
+  <ul>
+    {% for etudiant in etudiants %}
+      <li>{{ etudiant.nom_etudiant }} {{ etudiant.prenom_etudiant }} - {{ etudiant.numero_etudiant }}</li>
+    {% endfor %}
+  </ul>
+{% endblock %}

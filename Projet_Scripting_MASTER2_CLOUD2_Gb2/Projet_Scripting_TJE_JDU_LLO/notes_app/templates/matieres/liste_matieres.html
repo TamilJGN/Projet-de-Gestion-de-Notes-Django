@@ -1,0 +1,10 @@
+{% extends 'includes/base.html' %}
+
+{% block content %}
+  <h2>Liste des Matières</h2>
+  <ul>
+    {% for matiere in matieres %}
+      <li>{{ matiere.nom_matiere }} - {{ matiere.code_matiere }}</li>
+    {% endfor %}
+  </ul>
+{% endblock %}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Gestion de Notes</title>
+</head>
+<body>
+  <header>
+    <h1>Gestion de Notes</h1>
+    <nav>
+      <a href="{% url 'liste_matieres' %}">Matières</a> |
+      <a href="{% url 'liste_etudiants' %}">Étudiants</a>
+    </nav>
+  </header>
+
+  <section>
+    {% block content %}
+    {% endblock %}
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Gestion de Notes</p>
+  </footer>
+</body>
+</html>

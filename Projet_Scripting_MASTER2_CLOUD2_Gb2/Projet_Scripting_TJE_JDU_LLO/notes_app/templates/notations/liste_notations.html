@@ -1,0 +1,11 @@
+{% extends 'includes/base.html' %}
+
+{% block content %}
+  <h2>Liste des Notations pour {{ etudiant.nom_etudiant }} {{ etudiant.prenom_etudiant }}</h2>
+  <ul>
+    {% for notation in notations %}
+      <li>{{ notation.matiere.nom_matiere }} - Note: {{ notation.note }} - Date: {{ notation.date_notation }}</li>
+    {% endfor %}
+  </ul>
+  <p>Moyenne Annuelle: {{ moyenne_annuelle }}</p>
+{% endblock %}
