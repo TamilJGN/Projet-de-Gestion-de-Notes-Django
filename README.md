@@ -10,8 +10,10 @@ Voici les commandes que nous avons exécutées dans un premier temps :
 Créer une nouvelle application
 
 ```
-python manage.py startapp notes_app Aller dans le répertoire de l'application
+python manage.py startapp notes_app 
 ```
+
+Aller dans le répertoire de l'application
 
 ```
 cd notes_app
