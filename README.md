@@ -53,7 +53,7 @@ mkdir etudiants
 mkdir notations
 ```
 
-Nous avons également créé un dossier includes pour stocker les éléments réutilisables, tels que l'en-tête et le pied de page. (Il s'agissait de notre base)
+Nous avons également créé un dossier includes pour stocker les éléments réutilisables, tels que l'en-tête et le pied de page.
 
 ```
 mkdir includes 
