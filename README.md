@@ -31,7 +31,7 @@ Nous avons créé un formulaire que nous avons nommé forms.py dans notes_app, c
 
 
 ## IV. Alimentation du fichier views.py
-C'est à cet endroit que nous avons défini les fonctions de vue qui étaient responsables de traiter les requêtes HTTP.
+Nous avons défini les fonctions de vue dans le view.py qui étaient responsables de traiter les requêtes HTTP.
 
 
 ## V. Création des Templates HTML :
@@ -63,5 +63,5 @@ Après cela, nous avons ajouté des fichiers .html que nous avons alimentés. Ap
 ## VI. Ajout des URL :
 Nous avons ajouté les liens dans le dossier templates via les différents fichiers nécessaires. Voici le chemin : Projet_Scripting_MASTER2_CLOUD2_Gb2\Projet_Scripting_TJE_JDU_LLO\notes_app\templates
 
-## VIII. Tester l'application :
+## VII. Tester l'application :
 Avec la commande python manage.py runserver, l'application était censée démarrer. Mais nous n'avons pas pu la faire fonctonner, nous n'avons pu régler le souci.
