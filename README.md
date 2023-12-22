@@ -64,7 +64,7 @@ mkdir includes
 Après cela, nous avons ajouté des fichiers .html que nous avons alimentés. Après cela, nous avons dû configurer le fichier views.py afin de pouvoir utiliser ces templates.
 
 ## VI. Ajout des URL :
-Nous avons ajouté les liens dans le dossier template via les différents fichiers nécessaires. Voici le chemin : Projet_Scripting_MASTER2_CLOUD2_Gb2\Projet_Scripting_TJE_JDU_LLO\notes_app\templates
+Nous avons ajouté les liens dans le dossier templates via les différents fichiers nécessaires. Voici le chemin : Projet_Scripting_MASTER2_CLOUD2_Gb2\Projet_Scripting_TJE_JDU_LLO\notes_app\templates
 
 
 ## VII. Ajout des URLs dans les fichiers concernés :
