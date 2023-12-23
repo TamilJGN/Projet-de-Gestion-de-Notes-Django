@@ -17,7 +17,7 @@ cd notes_app
 ```
 
 ## II. Déploiement des classes :
-Ensuite, nous avons lancé la commande "python manage.py startapp notes_app" qui a permis dans notre dossier de créer une application. Avec cette commande, plusieurs fichiers .py ont été créés, et nous nous sommes concentrés sur celui se situant dans notes_app > models.py. À cet endroit, nous avons importé les trois classes qui sont "matières", "étudiants" ainsi que "notations".
+On lance ensuite la commande « python management.py startapp notes_app » qui nous permet de créer une application dans notre répertoire. Avec cette commande, plusieurs fichiers .py ont été créés et nous nous sommes concentrés sur le fichier situé dans notes_app > models.py. Dans cet endroit, nous avons inscrit trois classes comme « matière », « étudiant » ainsi que « note ».
 
 Pour terminer ce deuxième chapitre, nous avons effectué l'application des migrations avec les commandes suivantes :
 
